@@ -4,7 +4,7 @@ This week we will practice how to work with OpenStreetMap data and conduct netwo
 
 - Exercise 6 is due by Wed 19.12.
 
-- Don't forget to check out the [hints for this week's exercise](https://automating-gis-processes.github.io/2018/lessons/L6/Exercise-6.html) if you're having trouble.
+- Don't forget to check out the [hints for this week's exercise](https://automating-gis-processes.github.io/2018/lessons/L6/exercise-6.html) if you're having trouble.
 
 - Scores on this exercise are out of 20 points.
 
